@@ -20,7 +20,7 @@
 				"G"
 			],
 			"type": "dragon",
-			"source": "Iymrith-reworked",
+			"source": SKT-reworked",
 			"alignment": [
 				"L",
 				"E"
@@ -204,7 +204,7 @@
 			"name": "Countess Sansuri",
 			"isNpc": true,
 			"isNamedCreature": true,
-			"source": "Iymrith-reworked",
+			"source": SKT-reworked",
 			"page": 192,
 			"size": [
 				"H"
@@ -526,7 +526,7 @@
 			"name": "Cressaro",
 			"isNpc": true,
 			"isNamedCreature": true,
-			"source": "Iymrith-reworked",
+			"source": SKT-reworked",
 			"page": 193,
 			"alignment": [
 				"N",
